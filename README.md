@@ -26,6 +26,10 @@ Perfect for creators who want to write AND draw manga in one place.
 | Clip Studio Paint | ❌ ($50+) | ❌ | ✅ |
 | FireAlpaca | ✅ | ❌ | Partial |
 
+## Translation and Localization
+
+- MT-MangaTranslate-Manga Translator — Web-based [manga translator](https://www.mangatranslate.com/) by Ficory LLC with OCR, image/PDF uploads, and an online editor for reviewing dialogue and layout. Limited daily free credits; paid plans are available. Use with creator-owned or authorized pages and review automatic translations before publication.
+
 ## Learning Resources
 
 ### Tutorials
